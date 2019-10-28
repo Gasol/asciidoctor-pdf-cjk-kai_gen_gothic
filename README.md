@@ -1,6 +1,6 @@
 # Asciidoctor::Pdf::CJK::KaiGenGothic
 
-A Asciidoctor PDF theme, using font [KaiGen Gothic](https://github.com/akiratw/kaigen-gothic). Include CN/JP/KR/TW glyphs.
+A Asciidoctor PDF theme, using font [KaiGen Gothic]( https://github.com/minjiex/kaigen-gothic). Include CN/JP/KR/TW glyphs.
 
 ## Installation
 
@@ -41,7 +41,7 @@ Code: MIT License
 
 Fonts:
 
-- KaiGenGothic SIL Open Font License, repo: https://github.com/akiratw/kaigen-gothic
+- KaiGenGothic SIL Open Font License, repo: https://github.com/minjiex/kaigen-gothic
 - Roboto Mono Apache 2 license, repo: https://github.com/google/fonts
 
 ## Contributing
